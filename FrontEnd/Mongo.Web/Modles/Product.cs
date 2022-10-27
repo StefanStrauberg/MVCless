@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace Mongo.Web.Modles
+namespace Mongo.Web.Models
 {
     public class Product
     {

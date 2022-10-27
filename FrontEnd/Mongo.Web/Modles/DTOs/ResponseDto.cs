@@ -1,4 +1,4 @@
-namespace Mongo.Web.Modles.DTOs
+namespace Mongo.Web.Models.DTOs
 {
     public class ResponseDto
     {

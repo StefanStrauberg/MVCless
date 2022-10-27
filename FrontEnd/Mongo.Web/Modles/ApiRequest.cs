@@ -1,6 +1,6 @@
 using static Mongo.Web.SD;
 
-namespace Mongo.Web.Modles
+namespace Mongo.Web.Models
 {
     public class ApiRequest
     {

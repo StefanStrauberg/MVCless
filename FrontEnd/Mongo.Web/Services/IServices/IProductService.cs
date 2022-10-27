@@ -1,5 +1,5 @@
 using System;
-using Mongo.Web.Modles.DTOs;
+using Mongo.Web.Models.DTOs;
 
 namespace Mongo.Web.Services.IServices
 {

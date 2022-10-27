@@ -1,6 +1,6 @@
 using System.Text;
-using Mongo.Web.Modles;
-using Mongo.Web.Modles.DTOs;
+using Mongo.Web.Models;
+using Mongo.Web.Models.DTOs;
 using Mongo.Web.Services.IServices;
 using Newtonsoft.Json;
 
